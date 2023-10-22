@@ -20,7 +20,7 @@ development:
   username: root
   password:
   host: localhost
-  database: protospace-39817_development
+  database: protospace_39817_development
 
 
 
@@ -33,7 +33,7 @@ test:
   username: root
   password:
   host: localhost
-  database: protospace-39817_test
+  database: protospace_39817_test
 
 
 # As with config/credentials.yml, you never want to store sensitive information,
